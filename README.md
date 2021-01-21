@@ -25,3 +25,6 @@ BKD + 2 days
 Due date - 6 days
 ```
 - Due (due back to Doctor?)
+```
+add (turnover weeks * 7) to the BKD date
+```
