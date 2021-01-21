@@ -7,8 +7,10 @@
 - Material and Units
 ## From the information in the previous step calculate the following:
 - Turnover weeks (turn/wks)
-```E and D materials are 3 week turnover```
-``` Z and I materials are 4 week turnover```
+```
+E and D materials are 3 week turnover
+Z and I materials are 4 week turnover
+```
 - ID
 ```First two letters of the first and last name```
 ```Jane Doe would be JADO```
