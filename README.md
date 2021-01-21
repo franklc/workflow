@@ -1,11 +1,11 @@
 # Case Workflow
-## A case is initiated (how? Phone call, email, etc?)
-## In order to track incoming (arriving) cases record the following:
+## 1. A case is initiated (how? Phone call, email, etc?)
+## 2. In order to track incoming (arriving) cases record the following:
 - Doctor
 - Patient Name (first, last)
 - BKD ?? (what is this again?)
 - Material and Units
-## From the information in the previous step calculate the following:
+## 3. From the information in the previous step calculate the following:
 - Turnover weeks (turn/wks)
 ```
 E and D materials are 3 week turnover
